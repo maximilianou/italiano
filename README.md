@@ -64,3 +64,4 @@ la t
 ecc. ( etc. )
 ```
 
+<https://www.youtube.com/watch?v=Bu-oIak-Ma4&list=PLVkEaAAyHQYWpY0SZiIzyl5HW8FEexfhv&index=2>
