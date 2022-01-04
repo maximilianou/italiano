@@ -144,3 +144,19 @@ Adesso io sto parlando e voi state ascoltando
 
 ### Day 3
 <https://www.youtube.com/watch?v=6kC35LH6Xqc&list=PLVkEaAAyHQYWpY0SZiIzyl5HW8FEexfhv&index=4>
+
+```
+Mi chiamo Maximiliano / Il mio nome &egrave; Maximiliano
+Sono Maximiliano
+Io ho 47 anni (verb avere)
+
+Vengo Da Reggio Emilia / Sono Di Reggio Emilia 
+Io vengo da Reggio Emilia / Io sono di Reggio Emilia
+
+
+```
+
+<https://www.youtube.com/watch?v=rTa4J1tGqHg&list=PLVkEaAAyHQYWpY0SZiIzyl5HW8FEexfhv&index=6>
+```
+
+```
