@@ -158,5 +158,65 @@ Io vengo da Reggio Emilia / Io sono di Reggio Emilia
 
 <https://www.youtube.com/watch?v=rTa4J1tGqHg&list=PLVkEaAAyHQYWpY0SZiIzyl5HW8FEexfhv&index=6>
 ```
+Tempi verbali
+
+indicativo
+congiuntivo
+condizionale
+imperativo
+infinito
+participio
+gerundio
+
+Modi finiti
+
+indicativo
+congiuntivo
+condizionale
+imperativo
+
+Modi infinitivi
+
+infinito
+participio
+gerundio
+
+tempo semplice
+io mangio
+
+tempo composto
+io ho mangiato
+
+indicativo:
+certezza
+realt&agrave;
+obiettivit&agrave;
+
+congiuntivo:
+incertezza
+dubbio
+desiderio
+possibilit&agrave;
+probabilit&agrave; 
+
+condizionale:
+un evento
+legato ad una
+condizione
+
+imperativo:
+ordine
+comando
+esortazione
+preghiera
+
+
+
+```
+Day 
+
+<https://www.youtube.com/watch?v=cQOnP25ITTU&list=PLVkEaAAyHQYWpY0SZiIzyl5HW8FEexfhv&index=7>
+
+```
 
 ```
