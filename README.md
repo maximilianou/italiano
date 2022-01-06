@@ -217,6 +217,52 @@ Day
 
 <https://www.youtube.com/watch?v=cQOnP25ITTU&list=PLVkEaAAyHQYWpY0SZiIzyl5HW8FEexfhv&index=7>
 
+### (Verbo irregulare)
+```
+Andare: 
+          presente      passato prossimo
+io        vado          sono andato/andata 
+tu        vai           sei andato/andata 
+lui/lei   va            &egrave; andato/andata
+noi       andiamo       siamo andati/andate
+voi       andate        siete andati/andate
+loro      vanno         sono andati/andate 
+ 
 ```
 
+
 ```
+Aprire: 
+          presente      passato prossimo
+io        apro          ho aperto 
+tu        apri          hai aperto 
+lui/lei   apre          ha aperto 
+noi       apriamo       abbiamo aperto
+voi       aprite        avete aperto 
+loro      aprono        hanno aperto 
+ 
+```
+
+
+```
+Avere: 
+          presente      passato prossimo
+io        ho            ho avuto 
+tu        hai           hai avuto 
+lui/lei   ha            ha avuto 
+noi       abbiamo       abbiamo avuto 
+voi       avete         avete avuto 
+loro      hanno         hanno avuto 
+``` 
+
+
+```
+Bere: 
+          presente      passato prossimo
+io        bevo          ho bevuto
+tu        bevi          hai bevuto 
+lui/lei   beve          ha bevuto   
+noi       beviamo       abbiamo bevuto 
+voi       bevete        avete bevuto 
+loro      bevono        hanno bevuto  
+``` 
