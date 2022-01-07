@@ -266,3 +266,70 @@ noi       beviamo       abbiamo bevuto
 voi       bevete        avete bevuto 
 loro      bevono        hanno bevuto  
 ``` 
+
+```
+Chiedere: 
+          presente      passato prossimo
+io        chiedo        ho chiesto  
+tu        chiedi        hai chiesto   
+lui/lei   chiede        ha chiesto     
+noi       chiediamo     abbiamo chiesto  
+voi       chiedete      avete chiesto  
+loro      chiedono      hanno chiesto    
+``` 
+
+
+```
+Chiudere: 
+          presente      passato prossimo
+io        chiudo        ho chiuso
+tu        chiudi        hai chiuso 
+lui/lei   chiude        ha chiuso
+noi       chiudiamo     abbiamo chiuso
+voi       chiudete      avete chiuso 
+loro      chiudono      hanno chiuso
+``` 
+
+
+```
+Correre: 
+          presente      passato prossimo
+io        corro         ho corso
+tu        corri         hai corso 
+lui/lei   corre         ha corso 
+noi       corriamo      abbiamo corso 
+voi       correte       avete corso 
+loro      corrono       hanno corso 
+``` 
+
+
+```
+Dare: 
+          presente      passato prossimo
+io        do            ho dato 
+tu        dai           hai dato 
+lui/lei   d&agrave;     ha dato     
+noi       diamo         abbiamo dato 
+voi       date          avete dato 
+loro      danno         hanno dato 
+``` 
+
+
+```
+Dare: 
+          presente      passato prossimo
+io        do            ho dato 
+tu        dai           hai dato 
+lui/lei   d&agrave;     ha dato     
+noi       diamo         abbiamo dato 
+voi       date          avete dato 
+loro      danno         hanno dato 
+``` 
+
+
+
+
+
+
+
+
