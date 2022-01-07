@@ -316,15 +316,79 @@ loro      danno         hanno dato
 
 
 ```
-Dare: 
+Dire: 
           presente      passato prossimo
-io        do            ho dato 
-tu        dai           hai dato 
-lui/lei   d&agrave;     ha dato     
-noi       diamo         abbiamo dato 
-voi       date          avete dato 
-loro      danno         hanno dato 
+io        dico          ho detto             
+tu        dici          hai detto          
+lui/lei   dice          ha detto         
+noi       diciamo       abbiamo detto            
+voi       dite          avete detto          
+loro      dicono        hanno detto            
 ``` 
+
+
+```
+Dovere: 
+          presente      passato prossimo
+io        devo          ho dovuto             
+tu        devi          hai dovuto           
+lui/lei   deve          ha dovuto         
+noi       dobbiamo      abbiamo dovuto            
+voi       dovete        avete dovuto            
+loro      devono        hanno dovuto            
+``` 
+
+
+```
+Essere: 
+          presente      passato prossimo
+io        sono          sono stato o stata             
+tu        sei           sei stato o stata         
+lui/lei   &egrave;      &egrave; stato o stata             
+noi       siamo         siamo stati o state         
+voi       siete         siete stati o state           
+loro      sono          sono stati o state        
+``` 
+
+
+```
+Leggere: 
+          presente      passato prossimo
+io        leggo         ho letto              
+tu        leggi         hai letto           
+lui/lei   legge         ha letto          
+noi       leggiamo      abbiamo letto            
+voi       leggete       avete letto             
+loro      leggono       hanno letto           
+``` 
+
+
+```
+Mettere: 
+          presente      passato prossimo
+io        metto         ho messo              
+tu        metti         hai messo           
+lui/lei   mette         ha messo          
+noi       mettiamo      abbiamo messo            
+voi       mettete       avete messo             
+loro      mettono       hanno messo           
+``` 
+
+
+```
+: 
+          presente      passato prossimo
+io                               
+tu                            
+lui/lei                     
+noi                         
+voi                           
+loro                        
+``` 
+
+
+
+
 
 
 
